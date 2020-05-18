@@ -13,8 +13,8 @@
   <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
   <Project Name="MultiplcationTable" Path="MultiplcationTable/MultiplcationTable.project" Active="No"/>
   <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
-  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

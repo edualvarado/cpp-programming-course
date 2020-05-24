@@ -1,5 +1,5 @@
 # Beginning C++ Programming - From Beginner to Beyond | Udemy
-The following content belongs to the Udemy course [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/) and my walkthrough on it.
+The following content belongs to the Udemy course [Beginning C++ Programming - From Beginner to Beyond](https://www.udemy.com/course/beginning-c-plus-plus-programming/).
 
 ## Wrapup
 Modern C++ Object-Oriented Programming (OOP) and STL skills needed for game, system, and application development.

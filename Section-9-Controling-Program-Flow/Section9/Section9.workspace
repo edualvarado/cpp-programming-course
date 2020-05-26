@@ -7,14 +7,14 @@
   <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
   <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
   <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
-  <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="No"/>
+  <Project Name="ForLoop" Path="ForLoop/ForLoop.project" Active="Yes"/>
   <Project Name="RangeBasedForLoop" Path="RangeBasedForLoop/RangeBasedForLoop.project" Active="No"/>
   <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
   <Project Name="DoWhile" Path="DoWhile/DoWhile.project" Active="No"/>
   <Project Name="MultiplcationTable" Path="MultiplcationTable/MultiplcationTable.project" Active="No"/>
   <Project Name="Histogram" Path="Histogram/Histogram.project" Active="No"/>
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
-  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>

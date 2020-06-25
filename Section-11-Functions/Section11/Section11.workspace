@@ -12,8 +12,8 @@
   <Project Name="ScopeExample" Path="ScopeExample/ScopeExample.project" Active="No"/>
   <Project Name="Factorial" Path="Factorial/Factorial.project" Active="No"/>
   <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
-  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
-  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
+  <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="Yes"/>
   <Project Name="HowFunctionCallsWork" Path="HowFunctionCallsWork/HowFunctionCallsWork.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
